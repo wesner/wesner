@@ -12,6 +12,8 @@ Soy un emprendedor Guatemalteco 🇬🇹 e ingeniero de software apasionado por 
      <div style="text-align: left">
           <a href="https://home.com.gt">
                <img align="left" width="130" src="./logo-home-dark.svg#gh-dark-mode-only" alt="Logo HomeGT">
+          </a>
+          <a href="https://home.com.gt">
                <img align="left" width="130" src="./logo-home-light.svg#gh-light-mode-only" alt="Logo HomeGT">
           </a>
      </div>
