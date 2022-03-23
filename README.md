@@ -8,10 +8,10 @@ Soy un emprendedor Guatemalteco 🇬🇹 e ingeniero de software apasionado por 
 
 <div>
      <div style="text-align: left">
-          <a href="https://home.com.gt/#gh-dark-mode-only">
+          <a href="https://home.com.gt/#gh-dark-mode-only" target="_blank">
                <img align="left" width="130" src="./logo-home-dark.svg" alt="Logo HomeGT">
           </a>
-          <a href="https://home.com.gt/#gh-light-mode-only">
+          <a href="https://home.com.gt/#gh-light-mode-only" target="_blank">
                <img align="left" width="130" src="./logo-home-light.svg" alt="Logo HomeGT">
           </a>
      </div>
@@ -26,9 +26,11 @@ Soy un emprendedor Guatemalteco 🇬🇹 e ingeniero de software apasionado por 
 </br>
 <div>
      <div style="text-align: left">
-          <a href="https://tilo.com.gt">
-               <!-- <img align="left" width="120" src="./logo-tilo-dark.svg#gh-dark-mode-only" alt="Logo Tilo"> -->
-               <img align="left" width="120" src="./logo-tilo-light.svg#gh-light-mode-only" alt="Logo Tilo">
+          <a href="https://tilo.com.gt/#gh-dark-mode-only" target="_blank">
+               <img align="left" width="120" src="./logo-tilo-dark.svg" alt="Logo Tilo">
+          </a>
+          <a href="https://tilo.com.gt/#gh-light-mode-only" target="_blank">
+               <img align="left" width="120" src="./logo-tilo-light.svg" alt="Logo Tilo">
           </a>
      </div>
      <div style="text-align: left">
