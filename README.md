@@ -1,6 +1,6 @@
 <!-- # Hola, soy Wesner 👋🏻
 Soy un emprendedor Guatemalteco 🇬🇹 -->
-<img align="center" width="100%" src="./github-header-image.png" alt="Portada">
+<img align="center" width="100%" src="./github-header-image-2.png" alt="Portada">
 
 
 <a href="https://home.com.gt">
